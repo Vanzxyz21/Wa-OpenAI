@@ -1,5 +1,5 @@
 const sessionName = "yusril";
-const donet = "https://saweria.co/sansekai";
+const donet = "https://saweria.co/vanztzy";
 const {
   default: sansekaiConnect,
   useMultiFileAuthState,
